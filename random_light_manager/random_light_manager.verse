@@ -1,3 +1,7 @@
+# ----------------------------------------------
+# 解説記事: https://uecreators.com/random-number-generator-verse/
+# ----------------------------------------------
+
 using { /Fortnite.com/Devices }
 using { /Verse.org/Simulation }
 using { /UnrealEngine.com/Temporary/Diagnostics }

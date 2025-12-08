@@ -1,3 +1,6 @@
+# ----------------------------------------------
+# 解説記事: https://uecreators.com/uefn-verse-trick-tile/
+# ----------------------------------------------
 
 using { /Fortnite.com/Devices }
 using { /Verse.org/Simulation }
